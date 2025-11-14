@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -16,3 +17,7 @@ Note: This will impact Vite dev & build performances.
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Password-Generator
+Simple Password Generator built with React and Tailwind CSS. Quickly generate secure, random passwords by adjusting length and including numbers or special characters. Features instant copying to the clipboard using React Hooks (useState, useCallback, useRef).
+>>>>>>> 6d2abbc544f3b380bbdaee2d68b889aa9b6ac858
